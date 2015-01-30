@@ -13,12 +13,14 @@ Highlight words to avoid in tech writing:
 - However
 - So
 - easy
+- perfect
 
 Thanks to:
 
 - http://wynnnetherland.com/linked/2014010902/words-to-avoid-in-tech-writing
 - http://css-tricks.com/words-avoid-educational-writing/
 - http://usevim.com/2014/01/17/words-to-avoid/
+- http://www.amazon.com/Perfect-Software-Other-Illusions-Testing/dp/0932633692/
 
 Install
 -------
